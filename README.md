@@ -1,8 +1,8 @@
- Hi there 👋,I'm Hiruni navoda   
+ Hi there 👋,I'm Hiruni Navoda   
  
  I'm programmer
  
-🌱 I’m currently learning studing Bsc honours software Engineering degree at nsbm  Green university  
+🌱 I’m currently studing Bsc honours software Engineering degree at NSBM  Green university  
 
 
 
